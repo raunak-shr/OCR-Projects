@@ -64,6 +64,6 @@ print(extracted_text)
 
 ## Contributors
 
-- [Your Name](link to your GitHub profile)
+- [Shreeyansh Das](github.com/raunak-shr)
 
-Feel free to contribute, open issues, or provide feedback. Happy coding! 🚀
+Feel free to contribute, open issues, or provide feedback.🚀
