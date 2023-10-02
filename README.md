@@ -12,7 +12,7 @@
 ---
 # OCR with Pytesseract
 
-This project demonstrates Optical Character Recognition (OCR) using Python and Pytesseract. OCR is a technology that extracts text from images or scanned documents. In this project, we leverage the power of Pytesseract, along with other essential libraries like Numpy, Pandas, PyPDF2, PIL (Python Imaging Library), and Google Translator, to perform OCR tasks in a Jupyter Notebook environment.
+This project demonstrates Optical Character Recognition (OCR) using Python and Pytesseract to convert voter information provided in Tamil language. OCR is a technology that extracts text from images or scanned documents. In this project, we leverage the power of Pytesseract, along with other essential libraries like Numpy, Pandas, PyPDF2, PIL (Python Imaging Library), and Google Translator, to perform OCR tasks in a Jupyter Notebook environment.
 
 ## Prerequisites
 
