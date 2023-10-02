@@ -10,7 +10,7 @@
 <a href = "https://stackoverflow.com/"><img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
 ---
-# OCR with Pytesseract
+# 1. Tamil Nadu Voter Information Extraction
 
 This project demonstrates Optical Character Recognition (OCR) using Python and Pytesseract to convert voter information provided in Tamil language. OCR is a technology that extracts text from images or scanned documents. In this project, we leverage the power of Pytesseract, along with other essential libraries like Numpy, Pandas, PyPDF2, PIL (Python Imaging Library), and Google Translator, to perform OCR tasks in a Jupyter Notebook environment.
 
