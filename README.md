@@ -35,17 +35,7 @@ pip install numpy pandas PyPDF2 googletrans==4.0.0-rc1
 
 ## Usage
 
-1. **Image OCR:**
-   - Place your images in the `images/` directory.
-   - Run the Jupyter Notebook `OCR_with_Pytesseract.ipynb`.
-   - The notebook will process the images using Pytesseract and display the extracted text.
-
-2. **PDF OCR:**
-   - Place your PDF files in the `pdfs/` directory.
-   - Run the Jupyter Notebook `OCR_with_PDF.ipynb`.
-   - The notebook will extract text from PDF files using PyPDF2 and perform OCR using Pytesseract.
-
-3. **Language Translation (Optional):**
+**Language Translation (Optional):**
    - Modify the notebook to translate extracted text using Google Translator if multilingual support is needed.
 
 ## Example
